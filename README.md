@@ -2,7 +2,7 @@
 
 ## EPL 
 
-### :network: LINFO2142 - Computer networks 
+### 🖧 LINFO2142 - Computer networks 
 [Project 1](https://github.com/Ayly-EXE/LINFO2142-Project1)
 
 
