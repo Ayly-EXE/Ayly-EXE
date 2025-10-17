@@ -1,7 +1,9 @@
 # 📚 My GitHub shelf
 
-**All my stuff kinda organized. Kinda ...** ☕
-
+**All my stuff organized. Kinda ...** ☕
+<div align="center">
+  **All my stuff organized. Kinda ...** ☕
+</div>
 ---
 
 ## 🏛️ EPL Projects
