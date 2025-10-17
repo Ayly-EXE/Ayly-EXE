@@ -1,4 +1,18 @@
-## Hi there 👋
+# School projects
+
+## EPL 
+
+### :network: LINFO2142 - Computer networks 
+[Project 1](https://github.com/Ayly-EXE/LINFO2142-Project1)
+
+
+
+
+
+
+
+
+
 
 <!--
 **Ayly-EXE/Ayly-EXE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
