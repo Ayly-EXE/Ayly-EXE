@@ -43,7 +43,8 @@
 
 | Project                                                                       | Description                 |
 | ----------------------------------------------------------------------------- | --------------------------- |
-| 🎵 [OZ – Music](https://github.com/Ayly-EXE/DidNot-e)                          | Music-related project       |
+| 🎵 [OZ – Music(caca)](https://github.com/Ayly-EXE/DidNot-e)                          | Music-related project       |
 | 📝 [Java Compiler](https://github.com/Ayly-EXE/SpaghettiCompiler)              | Custom compiler in Java     |
 | ♟️ [AI – Phoenix board game](https://github.com/Ayly-EXE/KentuckyFriedPhoenix) | AI project for a board game |
 | 🖧 [Networking Kathara Project](https://github.com/Ayly-EXE/KathaKado)         | Network simulation project  |
+| P4 [GeoPhoto project](https://forge.uclouvain.be/ingi/lepl1509-projet4/2025/groupe-02) |Mobile game using pictures from your phone|
