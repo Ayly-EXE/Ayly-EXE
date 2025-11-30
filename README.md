@@ -28,7 +28,7 @@
 | Project                                                                            | Description                                       |
 | ---------------------------------------------------------------------------------- | ------------------------------------------------- |
 | 🕹️ [Logiscool 421 – Lesson3](https://github.com/Ayly-EXE/LogiscoolUnityFallingCube) | Unity lesson project: falling cube game mechanics |
-
+|    [Logiscool 421 - Lesson 6-7](https://github.com/Ayly-EXE/Logiscool-Unity6-7)     | Unity lesson slide: Switching platforms          |
 ---
 
 ## 🧩 Fun Projects
