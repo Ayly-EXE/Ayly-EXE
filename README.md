@@ -17,8 +17,7 @@
 | 📚 **LEPL1410 - Tutorat**            | [Resources](https://forge.uclouvain.be/ingi/linfo1101-lepl1401/tutors/info1-ressources-tuteurs)     | Resources for LEPL1401                                 |
 | 🛠️ **LINFO2241 - Architechture**     | [Project Performance](https://forge.uclouvain.be/MatteoFirenze/linfo2241-project-2025-2026-student) | Mesuring a system's performance                        |
 | 🖧 **LINFO2142 – Computer Networks**  |[L3VPN Project](https://github.com/Ayly-EXE/LINFO2142-Project2-L3VPN)                                | Setting up a L3VPN usinf SRv6 on frr routing           |
-| 🛠️ **LINFO2355 - Multicore Proramming** |[Multicore exercices](https://github.com/Ayly-EXE/LINFO2355-Multicore)                           | Working with multicore and thread optimisations        |
-  
+| 🛠️ **LINFO2355 - Multicore Proramming** |[Multicore exercices](https://github.com/Ayly-EXE/LINFO2355-Multicore)                           | Working with multicore and thread optimisations        | 
 |🐟 **LINFO2347 - Computer System Security** | [FishTanks](https://github.com/ErwannCharlier/SecuredFishtank) | A mininet lab for cyber attack/defense | 
 ---
 ## 🌿Overleaf 
