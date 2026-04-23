@@ -19,6 +19,7 @@
 | 🖧 **LINFO2142 – Computer Networks**  |[L3VPN Project](https://github.com/Ayly-EXE/LINFO2142-Project2-L3VPN)                                | Setting up a L3VPN usinf SRv6 on frr routing           |
 | 🛠️ **LINFO2355 - Multicore Proramming** |[Multicore exercices](https://github.com/Ayly-EXE/LINFO2355-Multicore)                           | Working with multicore and thread optimisations        |
 ---  
+|🐟 **LINFO2347 - Computer System Security** | [FishTanks](https://github.com/ErwannCharlier/SecuredFishtank) | A mininet lab for cyber attack/defense | 
 
 ## 🌿Overleaf 
 
